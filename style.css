@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+    flex-direction: row;
+    width: 960px;
+    justify-content: center;
+}
+
+.uppercontainer{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+}
+
+#reset{
+    margin-bottom: 25px;
+}
+
+.row{
+    flex: 1 1;
+}
